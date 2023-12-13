@@ -3,7 +3,7 @@
 ## - December 12, 2023
 Hari ini Pengenalan Area Kantor dan Pengenalan Fiber Optic oleh Fiber Academy pada kantor Telkom Witel Bangka Belitung
 
-![Deskripsi gambar](https://raw.githubusercontent.com/kikyputraa/Diary_KP/main/assets/IMG-20231213-WA0045.png){width=300px height=200px}
+![IMG-20231213-WA0045](https://github.com/kikyputraa/Diary_KP/assets/150577938/fe8765a3-2370-48b5-a8f2-025ed64ade58)
 
 ![IMG-20231213-WA0046](https://github.com/kikyputraa/Diary_KP/assets/150577938/40b730ad-3525-4df1-b3f7-d5439251f763)
 
