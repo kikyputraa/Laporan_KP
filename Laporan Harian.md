@@ -12,5 +12,6 @@ Hari ini Pengenalan Area Kantor dan Pengenalan Fiber Optic oleh Fiber Academy pa
 ## - December 13, 2023
 Penempatan pada Divisi Administrator. Ditunjukan cara kerja Penerimaan pemasangan jaringan/konstruksi jaringan yang baru. Diberi tugas untuk membuat bot telegram sederhana sebagai Reminder tugas staff disana.
 
-Here's a helpful [link to the webinar](https://example.com/webinar).
+![WhatsApp Image 2023-12-13 at 13 23 00_11f42ece](https://github.com/kikyputraa/Diary_KP/assets/150577938/64ade2c2-8930-41f3-bbfd-188b2edca91e)
 
+![WhatsApp Image 2023-12-13 at 13 24 06_0b83ebb6](https://github.com/kikyputraa/Diary_KP/assets/150577938/52434122-3b65-4421-84c5-9ceab5e8a961)
