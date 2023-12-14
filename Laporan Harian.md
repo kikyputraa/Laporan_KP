@@ -13,9 +13,10 @@ Pengenalan Area Kantor dan Pengenalan Fiber Optic oleh Fiber Academy pada kantor
 ## - December 13, 2023
 Penempatan pada Divisi Administrator. Ditunjukan cara kerja Penerimaan pemasangan jaringan/konstruksi jaringan yang baru. Diberi tugas untuk membuat bot telegram sederhana sebagai Reminder tugas staff disana.
 
-![WhatsApp Image 2023-12-13 at 13 23 00_11f42ece](https://github.com/kikyputraa/Diary_KP/assets/150577938/64ade2c2-8930-41f3-bbfd-188b2edca91e)
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/ae1f87cd-52f1-4370-99c7-9e528e916893">
 
-![WhatsApp Image 2023-12-13 at 13 24 06_0b83ebb6](https://github.com/kikyputraa/Diary_KP/assets/150577938/52434122-3b65-4421-84c5-9ceab5e8a961)
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/3f6384c2-cbc2-4895-9caf-6058e869cc9a">
+
 
 ## - December 14, 2023
 Penempatan pada Bagian wifi.id Divisi Assurance, ikut ke Lapangan untuk perbaikan Jaringan di STAIN Pangkalpinang. Ditunjukan cara kerja atau SOP dalam penanganan kasus/laporan dari Customer. Diajarkan Splicing Kabel Onsite di Lapangan, serta Pengecekan Redaman Kabel Drop Core. (Redaman Standar Telkom = 22 dB)
@@ -40,22 +41,22 @@ Di STAIN terdapat 40-50 Access Point dari Telkom Akses dan beberapa ODP di tiap 
 (Alat-alat untuk perbaikan Onsite)
 
 
-<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/b6d27b99-1ec7-4879-bd02-709548486519">
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/b6d27b99-1ec7-4879-bd02-709548486519">
 
-<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/09e0ee02-0003-4d41-ae7f-35640890ab3a">
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/09e0ee02-0003-4d41-ae7f-35640890ab3a">
 
-<img width="322" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/39adb219-a3ee-41f8-bde5-58bac80583a5">
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/39adb219-a3ee-41f8-bde5-58bac80583a5">
 
 (Ditunjukan cara Perbaikan, dalam kasus kali ini adalah Penyambungan ulan Kabel Drop Core)
 
 
-<img width="301" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/83348666-b8fa-4303-9a15-080c88f9c97c">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/83348666-b8fa-4303-9a15-080c88f9c97c">
 
-<img width="256" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/dd4534be-6562-4526-8a83-358a1d9dab93">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/dd4534be-6562-4526-8a83-358a1d9dab93">
 
 (Pemeriksaan Redaman Kabel)
 
 
-<img width="312" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/7e5319d3-1efe-4a55-804a-350f4f98f537">
+<img width="400" height="400" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/7e5319d3-1efe-4a55-804a-350f4f98f537">
 
 (Percobaan Splicing Mandiri)
