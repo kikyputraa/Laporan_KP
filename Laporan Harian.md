@@ -43,12 +43,16 @@ Di STAIN terdapat 40-50 Access Point dari Telkom Akses dan beberapa ODP di tiap 
 
 <img width="323" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/09e0ee02-0003-4d41-ae7f-35640890ab3a">
 
+
 <img width="322" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/39adb219-a3ee-41f8-bde5-58bac80583a5">
+
 
 <img width="301" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/83348666-b8fa-4303-9a15-080c88f9c97c">
 (Pemeriksaan Redaman Kabel)
 
+
 <img width="256" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/dd4534be-6562-4526-8a83-358a1d9dab93">
+
 
 ![WhatsApp Image 2023-12-14 at 13 54 20_ac640d02](https://github.com/kikyputraa/Laporan_KP/assets/150577938/05b1bbce-34d5-4a96-a6a2-05f8cdf204fb)
 (Percobaan Splicing Mandiri)
