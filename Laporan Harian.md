@@ -48,6 +48,7 @@ Di STAIN terdapat 40-50 Access Point dari Telkom Akses dan beberapa ODP di tiap 
 <img width="322" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/39adb219-a3ee-41f8-bde5-58bac80583a5">
 
 <img width="301" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/83348666-b8fa-4303-9a15-080c88f9c97c">
+
 (Pemeriksaan Redaman Kabel)
 
 <img width="256" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/dd4534be-6562-4526-8a83-358a1d9dab93">
