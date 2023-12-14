@@ -42,6 +42,7 @@ Di STAIN terdapat 40-50 Access Point dari Telkom Akses dan beberapa ODP di tiap 
 
 (Ditunjukan cara Perbaikan, dalam kasus kali ini adalah Penyambungan ulan Kabel Drop Core)
 
+
 <img width="323" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/09e0ee02-0003-4d41-ae7f-35640890ab3a">
 
 <img width="322" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/39adb219-a3ee-41f8-bde5-58bac80583a5">
