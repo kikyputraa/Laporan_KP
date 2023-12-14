@@ -1,7 +1,7 @@
 # Laporan KP
 
 ## - December 12, 2023
-Hari ini Pengenalan Area Kantor dan Pengenalan Fiber Optic oleh Fiber Academy pada kantor Telkom Witel Bangka Belitung
+Pengenalan Area Kantor dan Pengenalan Fiber Optic oleh Fiber Academy pada kantor Telkom Witel Bangka Belitung
 
 ![IMG-20231213-WA0045](https://github.com/kikyputraa/Diary_KP/assets/150577938/fe8765a3-2370-48b5-a8f2-025ed64ade58){width=300px height=200px}
 
@@ -15,3 +15,19 @@ Penempatan pada Divisi Administrator. Ditunjukan cara kerja Penerimaan pemasanga
 ![WhatsApp Image 2023-12-13 at 13 23 00_11f42ece](https://github.com/kikyputraa/Diary_KP/assets/150577938/64ade2c2-8930-41f3-bbfd-188b2edca91e)
 
 ![WhatsApp Image 2023-12-13 at 13 24 06_0b83ebb6](https://github.com/kikyputraa/Diary_KP/assets/150577938/52434122-3b65-4421-84c5-9ceab5e8a961)
+
+## - December 14, 2023
+Penempatan pada Bagian wifi.id Divisi Assurance, ikut ke Lapangan untuk perbaikan Jaringan di STAIN Pangkalpinang. Ditunjukan cara kerja atau SOP dalam penanganan kasus/laporan dari Customer. Diajarkan Splicing Kabel Onsite di Lapangan, serta Pengecekan Redaman Kabel Drop Core. (Redaman Standar Telkom = 22 dB)
+
+Dijelaskan oleh pembimbing Lapangan :
+Telkom Akses secara sederhana di bagi ke beberapa bagian :
+
+Indihome 
+wifi.id
+ASTI Net
+VPN
+CCAN
+IOAN
+Dan Bagian Lainnya
+
+Tiap tiap bagian tadi juga terbagi ke beberapa divisi, yang saya masuki sekarang adalah wifi.id dengan 2 divisi yaitu pemasangan baru (di handle oleh Mitra TA) dan Assurance (di handle oleh TA langsung)
