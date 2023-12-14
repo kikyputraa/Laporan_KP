@@ -34,14 +34,14 @@ Tiap tiap bagian tadi juga terbagi ke beberapa divisi, yang saya masuki sekarang
 
 Di STAIN terdapat 40-50 Access Point dari Telkom Akses dan beberapa ODP di tiap titik pada Kampus nya.
 
-<img width="398" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/3f45a9b4-2db0-4485-9cd4-4b02cbdfa6da">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/3f45a9b4-2db0-4485-9cd4-4b02cbdfa6da">
 
 (Alat-alat untuk perbaikan Onsite)
 
 
-<img width="213" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/b6d27b99-1ec7-4879-bd02-709548486519">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/b6d27b99-1ec7-4879-bd02-709548486519">
 
-<img width="323" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/09e0ee02-0003-4d41-ae7f-35640890ab3a">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/09e0ee02-0003-4d41-ae7f-35640890ab3a">
 
 <img width="322" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/39adb219-a3ee-41f8-bde5-58bac80583a5">
 
@@ -50,7 +50,7 @@ Di STAIN terdapat 40-50 Access Point dari Telkom Akses dan beberapa ODP di tiap 
 
 <img width="301" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/83348666-b8fa-4303-9a15-080c88f9c97c">
 
-<img width="256" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/dd4534be-6562-4526-8a83-358a1d9dab93">{:height="300px" width="300px"}
+<img width="256" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/dd4534be-6562-4526-8a83-358a1d9dab93">
 
 (Pemeriksaan Redaman Kabel)
 
