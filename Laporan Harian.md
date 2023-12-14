@@ -31,3 +31,6 @@ Telkom Akses secara sederhana di bagi ke beberapa bagian :
 - Dan Bagian Lainnya
 
 Tiap tiap bagian tadi juga terbagi ke beberapa divisi, yang saya masuki sekarang adalah wifi.id dengan 2 divisi yaitu pemasangan baru (di handle oleh Mitra TA) dan Assurance (di handle oleh TA langsung)
+
+![WhatsApp Image 2023-12-14 at 10 16 28_8a5d1b55](https://github.com/kikyputraa/Laporan_KP/assets/150577938/4a3576f3-077d-4f77-8dd6-f005eedc69aa)
+(Alat-alat untuk perbaikan Onsite)
