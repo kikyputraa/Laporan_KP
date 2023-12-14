@@ -22,12 +22,12 @@ Penempatan pada Bagian wifi.id Divisi Assurance, ikut ke Lapangan untuk perbaika
 Dijelaskan oleh pembimbing Lapangan :
 Telkom Akses secara sederhana di bagi ke beberapa bagian :
 
-Indihome 
-wifi.id
-ASTI Net
-VPN
-CCAN
-IOAN
-Dan Bagian Lainnya
+- Indihome 
+- wifi.id
+- ASTI Net
+- VPN
+- CCAN
+- IOAN
+- Dan Bagian Lainnya
 
 Tiap tiap bagian tadi juga terbagi ke beberapa divisi, yang saya masuki sekarang adalah wifi.id dengan 2 divisi yaitu pemasangan baru (di handle oleh Mitra TA) dan Assurance (di handle oleh TA langsung)
