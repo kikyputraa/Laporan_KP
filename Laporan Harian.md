@@ -3,11 +3,12 @@
 ## - December 12, 2023
 Pengenalan Area Kantor dan Pengenalan Fiber Optic oleh Fiber Academy pada kantor Telkom Witel Bangka Belitung
 
-![IMG-20231213-WA0045](https://github.com/kikyputraa/Diary_KP/assets/150577938/fe8765a3-2370-48b5-a8f2-025ed64ade58){:height="300px" width="300px"}
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/00e9f6c5-4420-4530-9b75-436af8fbd325">
 
-![IMG-20231213-WA0046](https://github.com/kikyputraa/Diary_KP/assets/150577938/40b730ad-3525-4df1-b3f7-d5439251f763){:height="300px" width="300px"}
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/e19b64db-e8ca-4571-93de-e2277c50f805">
 
-![IMG-20231213-WA0048](https://github.com/kikyputraa/Diary_KP/assets/150577938/d7b4c647-1b14-475d-9f13-f2844448fca2)
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/912d7709-294b-4909-9122-fef2aa1048c3">
+
 
 ## - December 13, 2023
 Penempatan pada Divisi Administrator. Ditunjukan cara kerja Penerimaan pemasangan jaringan/konstruksi jaringan yang baru. Diberi tugas untuk membuat bot telegram sederhana sebagai Reminder tugas staff disana.
