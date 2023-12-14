@@ -34,7 +34,8 @@ Tiap tiap bagian tadi juga terbagi ke beberapa divisi, yang saya masuki sekarang
 
 Di STAIN terdapat 40-50 Access Point dari Telkom Akses dan beberapa ODP di tiap titik pada Kampus nya.
 
-![WhatsApp Image 2023-12-14 at 10 16 28_8a5d1b55](https://github.com/kikyputraa/Laporan_KP/assets/150577938/4a3576f3-077d-4f77-8dd6-f005eedc69aa)
+<img width="398" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/3f45a9b4-2db0-4485-9cd4-4b02cbdfa6da">
+
 (Alat-alat untuk perbaikan Onsite)
 
 <img width="213" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/b6d27b99-1ec7-4879-bd02-709548486519">
@@ -42,7 +43,6 @@ Di STAIN terdapat 40-50 Access Point dari Telkom Akses dan beberapa ODP di tiap 
 (Ditunjukan cara Perbaikan, dalam kasus kali ini adalah Penyambungan ulan Kabel Drop Core)
 
 <img width="323" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/09e0ee02-0003-4d41-ae7f-35640890ab3a">
-
 
 <img width="322" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/39adb219-a3ee-41f8-bde5-58bac80583a5">
 
