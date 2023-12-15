@@ -60,3 +60,15 @@ Di STAIN terdapat 40-50 Access Point dari Telkom Akses dan beberapa ODP di tiap 
 <img width="400" height="400" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/7e5319d3-1efe-4a55-804a-350f4f98f537">
 
 (Percobaan Splicing Mandiri)
+
+
+## - December 15, 2023
+Pengecekan ASTI-Net di RS Pratama Namang.
+
+Astinet merupakan layanan internet yang ditargetkan untuk corporate maupun rumah untuk boss perusahaan dengan bandwidth dedicated.
+
+Dapat dilihat disini kami melakukan pengecekan tiap-tiap modem Astinet yang terdapat pada ruang server di RS Pratama Kecamatan Namang.
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/7830b5d7-05e4-4933-92ab-d27bad411615">
+
+<img wwidth="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/0ff6d36f-9602-47cd-a1d9-d4a8e1268dfc">
