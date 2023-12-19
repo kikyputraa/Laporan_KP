@@ -19,7 +19,7 @@ Penempatan pada Divisi Administrator. Ditunjukan cara kerja Penerimaan pemasanga
 
 
 ## - December 14, 2023
-Penempatan pada Bagian wifi.id Divisi Assurance, ikut ke Lapangan untuk perbaikan Jaringan di STAIN Pangkalpinang. Ditunjukan cara kerja atau SOP dalam penanganan kasus/laporan dari Customer. Diajarkan Splicing Kabel Onsite di Lapangan, serta Pengecekan Redaman Kabel Drop Core. (Redaman Standar Telkom = 22 dB)
+Penempatan pada Bagian wifi.id Divisi Assurance, ikut ke Lapangan untuk perbaikan Jaringan di STAIN Bangka Belitung. Ditunjukan cara kerja atau SOP dalam penanganan kasus/laporan dari Customer. Diajarkan Splicing Kabel Onsite di Lapangan, serta Pengecekan Redaman Kabel Drop Core. (Redaman Standar Telkom = 22 dB)
 
 Dijelaskan oleh pembimbing Lapangan :
 Telkom Akses secara sederhana di bagi ke beberapa bagian :
@@ -72,3 +72,14 @@ Dapat dilihat disini kami melakukan pengecekan tiap-tiap modem Astinet yang terd
 <img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/7830b5d7-05e4-4933-92ab-d27bad411615">
 
 <img wwidth="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/0ff6d36f-9602-47cd-a1d9-d4a8e1268dfc">
+
+
+## - December 18, 2023
+Tim Asuransi Gangguan wifi.id mendapat beberapa titik gangguan.
+
+Pertama, kami mengunjungi Kampus STAIN Bangka Belitung dan Menangani masalah Kabel Drop Core yang mengalami loss sebesar 50 dB (Termasuk parah, bisa jadi kabel patah). Kami sambungkan kembali kabel yang patah.
+
+*tidak ada dokumentasi
+
+Kedua, kami menuju Hotel Aksi karena ada laporan Modem/WIFI tidak hidup, setelah dilihat ada permasalahan di POE. Kami hanya mengganti POE lama ke POE baru dan merestart Modem.
+
