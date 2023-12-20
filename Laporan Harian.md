@@ -71,7 +71,7 @@ Dapat dilihat disini kami melakukan pengecekan tiap-tiap modem Astinet yang terd
 
 <img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/7830b5d7-05e4-4933-92ab-d27bad411615">
 
-<img wwidth="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/0ff6d36f-9602-47cd-a1d9-d4a8e1268dfc">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/0ff6d36f-9602-47cd-a1d9-d4a8e1268dfc">
 
 
 ## - December 18, 2023
@@ -82,4 +82,8 @@ Pertama, kami mengunjungi Kampus STAIN Bangka Belitung dan Menangani masalah Kab
 *tidak ada dokumentasi
 
 Kedua, kami menuju Hotel Aksi karena ada laporan Modem/WIFI tidak hidup, setelah dilihat ada permasalahan di POE. Kami hanya mengganti POE lama ke POE baru dan merestart Modem.
+
+Power over Ethernet atau disingkat PoE adalah kabel jaringan jenis Ethernet yang dapat menyalurkan tenaga listrik tanpa perlu melakukan penarikan kabel power. Sebagai gantinya, tenaga listrik akan dialirkan melalui kabel twisted pair, baik UTP maupun STP yang bertugas sebagai wadah transmisi daya.
+
+![WhatsApp Image 2023-12-18 at 12 52 39_18142c08](https://github.com/kikyputraa/Laporan_KP/assets/150577938/dd29940b-8d22-4fba-b446-f6c10ee816f8)
 
