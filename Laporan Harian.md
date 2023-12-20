@@ -136,3 +136,7 @@ Melalui Digitalisasi SPBU, Pertamina dan Telkom juga sepakat mengembangkan platf
 <img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/454514c0-0501-4f9f-a44e-26dd38799675">
 
 (Pengaturan Tank dan Gauge SPBU melalui Sistem GI)
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/63e2d7ce-4d9f-41ad-8fbf-14c10dd26dbf">
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/572d8b06-e0a1-4e06-9e15-a5d79808f1c1">
