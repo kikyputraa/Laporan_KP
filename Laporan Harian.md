@@ -97,3 +97,21 @@ Wireless access point (WAP) yang juga dikenal sebagai access point adalah perang
 
 
 ## - December 19, 2023
+Hari ini saya ditempatkan pada Divisi Digitalisasi SPBU Pertamina, ada kendala yang harus diperbaiki di 3 titik SPBU.
+
+Tujuan utama Digitalisasi SPBU ini untuk meningkatkan pelayanan Pertamina kepada konsumen. Penghitungan pendapatan dari penjualan BBM di setiap SPBU juga lebih cepat dan akurat. Digitalisasi SPBU juga dapat menjamin bahwa tak ada kecurangan dalam penyaluran BBM.
+
+Pertamina, melalui lebih dari 5.000 SPBU yang tersebar di seluruh Indonesia, memahami tuntutan dan gaya hidup pelanggan saat ini yang serba digital, cepat dan tepat. Melalui sistem digital, diharapkan pengawasan stok dan distribusi bahan bakar minyak (BBM) dapat lebih efektif.
+
+Digitalisasi SPBU ini meliputi penyediaan infrastruktur digital SPBU, Data Center dan Connectivity di 5.518 SPBU atau 75.000 nozzle di seluruh Indonesia, hingga pemeliharaan (maintenance) selama jangka waktu perjanjian.
+ 
+Melalui Digitalisasi SPBU, Pertamina dan Telkom juga sepakat mengembangkan platform penyaluran BBM untuk memantau stok BBM di Tangki Penyimpanan SPBU,  jumlah BBM yang dikeluarkan melalui nozzle dan revenue penjualan BBM.
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/fa6b241d-d134-4c0b-8889-420a5127b994">
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/f9d70e0a-09f6-4d09-b73b-7eeb5498c3fd">
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/2e4fe3aa-e2ea-422d-a087-84f02ac9e585">
+
+(Pemeriksaan Koneksi antar Server Telkom dengan Server SPBU yang mengalami masalah)
+
