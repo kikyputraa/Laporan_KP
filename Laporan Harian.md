@@ -180,7 +180,7 @@ Saya mengikuti Tim CCAN (CCAN merupakan unit khusus yang dibentuk di setiap Kant
 
 <img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/21656269-49db-4b88-9262-b05df3dc42ae">
 
-(Tracking Sambungan menggunakan OTDR. OTDR merupakan salah satu alat ukur optik, Alat ini berfungsi dalam pengukuran dan Mengetahui Lokasi Kerusakan pada Serat Optik.)
+(Tracking Sambungan menggunakan OTDR. OTDR merupakan salah satu alat ukur optik, Alat ini berfungsi dalam pengukuran dan Mengetahui Lokasi Kerusakan pada Serat Optik. Saya diajarkan cara menggunakan dan pengukurannya.)
 
 <img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/67bc45f3-b621-44d1-990d-6280975d23d4">
 
@@ -202,7 +202,7 @@ Saya mengikuti Tim CCAN (CCAN merupakan unit khusus yang dibentuk di setiap Kant
 
 <img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/11f709c6-eb04-4fe5-ae45-84e6b299a18b">
 
-(Penyambungan Kabel)
+(Penyambungan Kabel secara Mandiri)
 
 <img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/9011d096-0095-4242-a099-23731f72b123">
 
