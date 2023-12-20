@@ -160,3 +160,9 @@ Setelah Selesai Install Ulang dan Mapping Tank/Fuel, kami diminta mengatur board
 <img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/13ff5a76-a7bd-4ebc-add8-fdee7415c609">
 
 (Proses Pemindahan Board Dispenser)
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/fb61278d-f7ec-4ce3-bf65-e812099fb67b">
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/d2217839-8662-4963-9a1b-2bed58ae8dc8">
+
+(Testing Sistem Self-Service.)
