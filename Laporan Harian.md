@@ -125,6 +125,15 @@ Melalui Digitalisasi SPBU, Pertamina dan Telkom juga sepakat mengembangkan platf
 
 (Install Ulang System GI untuk Digitalisasi SPBU Pertamina di Kelapa, dikarenakan PC POS yang lama harus diperbaiki.)
 
-<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/df11c75b-ac4a-4aba-a394-560c1821c1a0">
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/df11c75b-ac4a-4aba-a394-560c1821c1a0">
 
 (Contoh EDC Self Service di Pertamina)
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/e3049186-b594-47a1-b535-2e46593a07b1">
+
+(Pengaturan Pump Dispenser SPBU melalui Sistem GI)
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/454514c0-0501-4f9f-a44e-26dd38799675">
+
+
+(Pengaturan Tank dan Gauge SPBU melalui Sistem GI)
