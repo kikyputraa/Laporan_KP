@@ -170,4 +170,4 @@ Setelah Selesai Install Ulang dan Mapping Tank/Fuel, kami diminta mengatur board
 ## - December 20, 2023
 Hari ini saya mengikuti Tim wifi.id ke POLDA Bangka Belitung, kami diminta untuk mengganti 4 kabel core PIGTAIL yang ada di ODP pada kantor POLDA BABEL. (Tidak ada Dokumentasi, dikarenakan hujan)
 
-Setelah itu, ke Kantor Kemenag Bangka Beltiung, disana kami mengganti salah satu kabel Drop Core. (Tidak ada Dokumentasi, dikarenakan hujan)
+Setelah itu, ke Kantor Kemenag Bangka Belitung, disana kami mengganti salah satu kabel Drop Core. (Tidak ada Dokumentasi, dikarenakan hujan)
