@@ -140,3 +140,23 @@ Melalui Digitalisasi SPBU, Pertamina dan Telkom juga sepakat mengembangkan platf
 <img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/63e2d7ce-4d9f-41ad-8fbf-14c10dd26dbf">
 
 <img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/572d8b06-e0a1-4e06-9e15-a5d79808f1c1">
+
+(Pengaturan Pricing Bahan Bakar)
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/28d0c746-6303-4243-9635-3c529ea499f1">
+
+(Mengatur Shift dan User pada EDC untuk setiap Operator SPBU)
+
+Setelah Selesai Install Ulang dan Mapping Tank/Fuel, kami diminta mengatur board Dispenser agar dapat digunakan secara self-service.
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/db3a7f19-3b2f-478e-bb17-4ea7bc7b5f10">
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/463ee508-5a1e-4cf9-adb9-2561c64b6f63">
+
+(Pengaturan EDC untuk Self Service)
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/81b24f63-5a99-4e18-bee0-a583cfad80d0">
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/13ff5a76-a7bd-4ebc-add8-fdee7415c609">
+
+(Proses Pemindahan Board Dispenser)
