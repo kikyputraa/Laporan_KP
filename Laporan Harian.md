@@ -59,7 +59,7 @@ Di STAIN terdapat 40-50 Access Point dari Telkom Akses dan beberapa ODP di tiap 
 
 <img width="400" height="400" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/7e5319d3-1efe-4a55-804a-350f4f98f537">
 
-(Percobaan Splicing Mandiri)
+(Percobaan Splicing secara Mandiri)
 
 
 ## - December 15, 2023
