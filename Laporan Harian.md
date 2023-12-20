@@ -198,13 +198,13 @@ Saya mengikuti Tim CCAN (CCAN merupakan unit khusus yang dibentuk di setiap Kant
 
 (Rak Server Transmart)
 
-<img width="335" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/63dde569-84b6-4c79-bc64-b7cbc03de8f8">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/63dde569-84b6-4c79-bc64-b7cbc03de8f8">
 
-<img width="308" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/11f709c6-eb04-4fe5-ae45-84e6b299a18b">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/11f709c6-eb04-4fe5-ae45-84e6b299a18b">
 
 (Penyambungan Kabel)
 
-<img width="280" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/9011d096-0095-4242-a099-23731f72b123">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/9011d096-0095-4242-a099-23731f72b123">
 
 (Pemasangan Ulang)
 
