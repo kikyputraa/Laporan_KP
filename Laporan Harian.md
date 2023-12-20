@@ -69,9 +69,9 @@ Astinet merupakan layanan internet yang ditargetkan untuk corporate maupun rumah
 
 Dapat dilihat disini kami melakukan pengecekan tiap-tiap modem Astinet yang terdapat pada ruang server di RS Pratama Kecamatan Namang.
 
-<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/7830b5d7-05e4-4933-92ab-d27bad411615">
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/7830b5d7-05e4-4933-92ab-d27bad411615">
 
-<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/0ff6d36f-9602-47cd-a1d9-d4a8e1268dfc">
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/0ff6d36f-9602-47cd-a1d9-d4a8e1268dfc">
 
 
 ## - December 18, 2023
