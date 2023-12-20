@@ -69,9 +69,9 @@ Astinet merupakan layanan internet yang ditargetkan untuk corporate maupun rumah
 
 Dapat dilihat disini kami melakukan pengecekan tiap-tiap modem Astinet yang terdapat pada ruang server di RS Pratama Kecamatan Namang.
 
-<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/7830b5d7-05e4-4933-92ab-d27bad411615">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/7830b5d7-05e4-4933-92ab-d27bad411615">
 
-<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/0ff6d36f-9602-47cd-a1d9-d4a8e1268dfc">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/0ff6d36f-9602-47cd-a1d9-d4a8e1268dfc">
 
 
 ## - December 18, 2023
@@ -91,9 +91,9 @@ Setelah itu, Kami ditugaskan mengganti Access Point yang terdapat di Taman Dealo
 
 Wireless access point (WAP) yang juga dikenal sebagai access point adalah perangkat keras yang digunakan dalam jaringan area lokal nirkabel untuk mengirim dan menerima data.
 
-<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/908534f1-696d-4103-931a-678432f1d6c1">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/908534f1-696d-4103-931a-678432f1d6c1">
 
-<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/5a62ae34-d7f1-4511-ad9c-b596e12befe4">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/5a62ae34-d7f1-4511-ad9c-b596e12befe4">
 
 
 ## - December 19, 2023
@@ -119,51 +119,51 @@ Melalui Digitalisasi SPBU, Pertamina dan Telkom juga sepakat mengembangkan platf
 
 (Pengecekan Sistem Digitalisasi SPBU Pertamina di Kelapa, ada gangguan dalam pengisian berbasis Barcode dan EDC)
 
-<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/a17e16d9-d1a9-438d-a397-be50c92884a2">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/a17e16d9-d1a9-438d-a397-be50c92884a2">
 
-<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/290612db-62d2-419f-ae2c-62fb3b9d90e1">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/290612db-62d2-419f-ae2c-62fb3b9d90e1">
 
 (Install Ulang System GI untuk Digitalisasi SPBU Pertamina di Kelapa, dikarenakan PC POS yang lama harus diperbaiki.)
 
-<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/df11c75b-ac4a-4aba-a394-560c1821c1a0">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/df11c75b-ac4a-4aba-a394-560c1821c1a0">
 
 (Contoh EDC Self Service di Pertamina)
 
-<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/e3049186-b594-47a1-b535-2e46593a07b1">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/e3049186-b594-47a1-b535-2e46593a07b1">
 
 (Pengaturan Pump Dispenser SPBU melalui Sistem GI)
 
-<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/454514c0-0501-4f9f-a44e-26dd38799675">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/454514c0-0501-4f9f-a44e-26dd38799675">
 
 (Pengaturan Tank dan Gauge SPBU melalui Sistem GI)
 
-<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/63e2d7ce-4d9f-41ad-8fbf-14c10dd26dbf">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/63e2d7ce-4d9f-41ad-8fbf-14c10dd26dbf">
 
-<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/572d8b06-e0a1-4e06-9e15-a5d79808f1c1">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/572d8b06-e0a1-4e06-9e15-a5d79808f1c1">
 
 (Pengaturan Pricing Bahan Bakar)
 
-<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/28d0c746-6303-4243-9635-3c529ea499f1">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/28d0c746-6303-4243-9635-3c529ea499f1">
 
 (Mengatur Shift dan User pada EDC untuk setiap Operator SPBU)
 
 Setelah Selesai Install Ulang dan Mapping Tank/Fuel, kami diminta mengatur board Dispenser agar dapat digunakan secara self-service.
 
-<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/db3a7f19-3b2f-478e-bb17-4ea7bc7b5f10">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/db3a7f19-3b2f-478e-bb17-4ea7bc7b5f10">
 
-<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/463ee508-5a1e-4cf9-adb9-2561c64b6f63">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/463ee508-5a1e-4cf9-adb9-2561c64b6f63">
 
 (Pengaturan EDC untuk Self Service)
 
-<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/81b24f63-5a99-4e18-bee0-a583cfad80d0">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/81b24f63-5a99-4e18-bee0-a583cfad80d0">
 
-<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/13ff5a76-a7bd-4ebc-add8-fdee7415c609">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/13ff5a76-a7bd-4ebc-add8-fdee7415c609">
 
 (Proses Pemindahan Board Dispenser)
 
-<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/fb61278d-f7ec-4ce3-bf65-e812099fb67b">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/fb61278d-f7ec-4ce3-bf65-e812099fb67b">
 
-<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/d2217839-8662-4963-9a1b-2bed58ae8dc8">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/d2217839-8662-4963-9a1b-2bed58ae8dc8">
 
 (Testing Sistem Self-Service.)
 
