@@ -85,5 +85,13 @@ Kedua, kami menuju Hotel Aksi karena ada laporan Modem/WIFI tidak hidup, setelah
 
 Power over Ethernet atau disingkat PoE adalah kabel jaringan jenis Ethernet yang dapat menyalurkan tenaga listrik tanpa perlu melakukan penarikan kabel power. Sebagai gantinya, tenaga listrik akan dialirkan melalui kabel twisted pair, baik UTP maupun STP yang bertugas sebagai wadah transmisi daya.
 
-![WhatsApp Image 2023-12-18 at 12 52 39_18142c08](https://github.com/kikyputraa/Laporan_KP/assets/150577938/dd29940b-8d22-4fba-b446-f6c10ee816f8)
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/515387ba-531b-47e1-8aa0-60e39f52feee">
+
+Setelah itu, Kami ditugaskan mengganti Access Point yang terdapat di Taman Dealova Pangkalpinang.
+
+Wireless access point (WAP) yang juga dikenal sebagai access point adalah perangkat keras yang digunakan dalam jaringan area lokal nirkabel untuk mengirim dan menerima data.
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/908534f1-696d-4103-931a-678432f1d6c1">
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/5a62ae34-d7f1-4511-ad9c-b596e12befe4">
 
