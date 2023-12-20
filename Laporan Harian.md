@@ -171,3 +171,40 @@ Setelah Selesai Install Ulang dan Mapping Tank/Fuel, kami diminta mengatur board
 Hari ini saya mengikuti Tim wifi.id ke POLDA Bangka Belitung, kami diminta untuk mengganti 4 kabel core PIGTAIL yang ada di ODP pada kantor POLDA BABEL. (Tidak ada Dokumentasi, dikarenakan hujan)
 
 Setelah itu, ke Kantor Kemenag Bangka Belitung, disana kami mengganti salah satu kabel Drop Core. (Tidak ada Dokumentasi, dikarenakan hujan)
+
+Saya mengikuti Tim CCAN (CCAN merupakan unit khusus yang dibentuk di setiap Kantor Wilayah Pelayanan Telekomunikasi yang bertugas untuk memberikan layanan purna jual yang fokus pada akses broadband, dimaksudkan agar kualitas layanan tetap terjaga sesuai standar layanan.). Kami melakukan perbaikan jaringan pada Transmart Pangkalpinang.
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/c0492c69-c52c-4cc3-8e73-5843ed308830">
+
+(Pemeriksaan Sambungan Fiber)
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/21656269-49db-4b88-9262-b05df3dc42ae">
+
+(Tracking Sambungan menggunakan OTDR. OTDR merupakan salah satu alat ukur optik, Alat ini berfungsi dalam pengukuran dan Mengetahui Lokasi Kerusakan pada Serat Optik.)
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/67bc45f3-b621-44d1-990d-6280975d23d4">
+
+(Pemeriksaan Jalur Fiber)
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/6756f107-3c73-46c8-a1ee-aa2a3e3a4111">
+
+(Validasi Jalur Kerusakan)
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/80bfb477-6b07-4d88-ba88-ca04ae55a38e">
+
+(Mencari Kabel yang Putus)
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/e77a289a-5d3c-40bb-a151-e27e42723aa8">
+
+(Rak Server Transmart)
+
+<img width="335" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/63dde569-84b6-4c79-bc64-b7cbc03de8f8">
+
+<img width="308" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/11f709c6-eb04-4fe5-ae45-84e6b299a18b">
+
+(Penyambungan Kabel)
+
+<img width="280" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/9011d096-0095-4242-a099-23731f72b123">
+
+(Pemasangan Ulang)
+
