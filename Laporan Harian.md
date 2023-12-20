@@ -115,3 +115,16 @@ Melalui Digitalisasi SPBU, Pertamina dan Telkom juga sepakat mengembangkan platf
 
 (Pemeriksaan Koneksi antar Server Telkom dengan Server SPBU yang mengalami masalah)
 
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/b1817b64-1761-489f-a8ec-37062b96ff62">
+
+(Pengecekan Sistem Digitalisasi SPBU Pertamina di Kelapa, ada gangguan dalam pengisian berbasis Barcode dan EDC)
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/a17e16d9-d1a9-438d-a397-be50c92884a2">
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/290612db-62d2-419f-ae2c-62fb3b9d90e1">
+
+(Install Ulang System GI untuk Digitalisasi SPBU Pertamina di Kelapa, dikarenakan PC POS yang lama harus diperbaiki.)
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/df11c75b-ac4a-4aba-a394-560c1821c1a0">
+
+(Contoh EDC Self Service di Pertamina)
