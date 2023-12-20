@@ -123,7 +123,7 @@ Melalui Digitalisasi SPBU, Pertamina dan Telkom juga sepakat mengembangkan platf
 
 <img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/290612db-62d2-419f-ae2c-62fb3b9d90e1">
 
-(Install Ulang System GI untuk Digitalisasi SPBU Pertamina di Kelapa, dikarenakan PC POS yang lama harus diperbaiki.)
+(Install Ulang System Golden Image untuk Digitalisasi SPBU Pertamina di Kelapa, dikarenakan PC POS yang lama harus diperbaiki.)
 
 <img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/df11c75b-ac4a-4aba-a394-560c1821c1a0">
 
