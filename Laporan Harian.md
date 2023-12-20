@@ -166,3 +166,8 @@ Setelah Selesai Install Ulang dan Mapping Tank/Fuel, kami diminta mengatur board
 <img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/d2217839-8662-4963-9a1b-2bed58ae8dc8">
 
 (Testing Sistem Self-Service.)
+
+## - December 20, 2023
+Hari ini saya mengikuti Tim wifi.id ke POLDA Bangka Belitung, kami diminta untuk mengganti 4 kabel core PIGTAIL yang ada di ODP pada kantor POLDA BABEL. (Tidak ada Dokumentasi, dikarenakan hujan)
+
+Setelah itu, ke Kantor Kemenag Bangka Beltiung, disana kami mengganti salah satu kabel Drop Core. (Tidak ada Dokumentasi, dikarenakan hujan)
