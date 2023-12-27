@@ -1,4 +1,4 @@
-<img width="289" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/ce15a9ef-0e82-44f0-a172-2e7fb4cf3987"># Laporan KP
+# Laporan KP
 
 ## - December 12, 2023
 Pengenalan Area Kantor dan Pengenalan Fiber Optic oleh Fiber Academy pada kantor Telkom Witel Bangka Belitung
