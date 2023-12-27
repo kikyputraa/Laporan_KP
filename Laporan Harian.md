@@ -223,6 +223,8 @@ SPBU Pertama di Sadai, Bangka Selatan. Problem yang ditemukan adalah titik groun
 
 (Percobaan Grounding Mandiri)
 
+SPBU Kedua di Toboali, Bangka Selatan. Problem yang dilaporkan adalah Grounding yang bermasalah, Pergantian ATG dan Perbaikan Minor untuk Tanki
+
 <img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/1379c454-2019-4eb1-8b2f-7e7d4b7e6c98">
 
 <img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/9982ac9d-1699-4da1-bbad-a28b3817c93d">
