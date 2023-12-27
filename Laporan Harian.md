@@ -1,4 +1,4 @@
-# Laporan KP
+<img width="289" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/ce15a9ef-0e82-44f0-a172-2e7fb4cf3987"># Laporan KP
 
 ## - December 12, 2023
 Pengenalan Area Kantor dan Pengenalan Fiber Optic oleh Fiber Academy pada kantor Telkom Witel Bangka Belitung
@@ -225,8 +225,16 @@ SPBU Pertama di Sadai, Bangka Selatan. Problem yang ditemukan adalah titik groun
 
 SPBU Kedua di Toboali, Bangka Selatan. Problem yang dilaporkan adalah Grounding yang bermasalah, Pergantian ATG dan Perbaikan Minor untuk Tanki
 
-<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/1379c454-2019-4eb1-8b2f-7e7d4b7e6c98">
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/1379c454-2019-4eb1-8b2f-7e7d4b7e6c98">
 
-<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/9982ac9d-1699-4da1-bbad-a28b3817c93d">
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/b8498a80-eb07-4f44-8c08-29d530ab8a2a">
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/9982ac9d-1699-4da1-bbad-a28b3817c93d">
 
 (Perbaikan Grounding Tanki dan Instalasi Selang Proteksi)
+
+SPBU Ketiga di Kurau, Bangka Tengah. Laporan yang diterima adalah PC Server kerap mati. Setelah kami check, ternyata masalahnya terdapat pada suhu Ruangan di kantor SPBU karena AC sudah mati. Penyelesaiannya adalah perbaikan PC POS (dikirim ke Medan atau Regional 1) dan Penambahan AC pada Kantor.
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/5b82a7ae-52c3-49f5-969c-e9f2f87f9900">
+
+(Pengecekan kali ini didampingi oleh SBM dari Pertamina)
