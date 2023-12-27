@@ -275,3 +275,5 @@ GPON mempunyai dominansi pasar yang lebih tinggi dan roll out lebih cepat diband
 Baik GPON ataupun GEPON, menggunakan serat optik sebagai medium transmisi. Satu perangkat akan diletakkan pada sentral, kemudian akan mendistribusikan trafik Triple Play (Suara/VoIP, Multi Media/Digital Pay TV dan Data/Internet) hanya melalui media 1 core kabel optik disisi subscriber atau pelanggan. 
 
 <img width="448" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/91b186aa-38ac-4790-ae4c-ce68b41f7b73">
+
+Source : https://darysqin.blogspot.com/2014/10/gpon.html
