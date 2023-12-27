@@ -263,3 +263,15 @@ Laporan yang diterima adalah Modem yang tidak bisa Koneksi ke Internet, dan ATG 
 (Pemasangan Kembali Sensor dan ATG)
 
 Masalah pada Modem kebanyakan dihandle secara remote oleh tim CCAN di kantor, jadi tidak ada Dokumentasi. Kami hanya Crimping Ulang Kabel LAN.
+
+Setelah itu di Kantor, diberikan tugas untuk belajar secara mandiri tentang Dasar-Dasar GPON.
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/dcbbfd55-b2de-4fad-90dd-6a73ad290055">
+
+GPON merupakan salah satu teknologi yang dikembangkan oleh ITU-T via G.984 dan hingga kini bersaing dengan GEPON (Gigabit Ethernet PON), yaitu PON versi IEEE yang berbasiskan teknologi Ethernet. 
+
+GPON mempunyai dominansi pasar yang lebih tinggi dan roll out lebih cepat dibanding penetrasi GEPON. Standar G.984 mendukung bit rate yang lebih tinggi, perbaikan keamanan, dan pilihan protokol layer 2 (ATM, GEM, atau Ethernet). 
+
+Baik GPON ataupun GEPON, menggunakan serat optik sebagai medium transmisi. Satu perangkat akan diletakkan pada sentral, kemudian akan mendistribusikan trafik Triple Play (Suara/VoIP, Multi Media/Digital Pay TV dan Data/Internet) hanya melalui media 1 core kabel optik disisi subscriber atau pelanggan. 
+
+<img width="448" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/91b186aa-38ac-4790-ae4c-ce68b41f7b73">
