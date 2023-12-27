@@ -279,5 +279,7 @@ Baik GPON ataupun GEPON, menggunakan serat optik sebagai medium transmisi. Satu 
 Source : https://ahambali.staff.telkomuniversity.ac.id/wp-content/uploads/sites/85/2014/05/Jaringan-Akses-GPONGEPON.pdf
 
 Konfigurasi Dasar GPON OLT : 
+
+https://repository.telkomuniversity.ac.id/open/index.php/download/flippingbook/eyJkb3dubG9hZCI6IjAiLCJyZWFkb25seSI6IjEiLCJyZWFkIjp7Imtub3dsZWRnZV9pdGVtX2lkIjoiMTIyNjkwIiwibWVtYmVyX2lkIjoiMTMyNDY3IiwibmFtZSI6IjE2LjA2LjY3M19iYWIzLnBkZiJ9LCJuYW1lIjoiMTYuMDYuNjczX2JhYjMucGRmIiwibGluayI6IlwvZGF0YVwvYmF0aWtcL3N5bWZvbnlfcHJvamVjdHNcL2Jvb2tcLzE2LjA2LjY3M1wvMTYuMDYuNjczX2JhYjMucGRmIn0=
 https://www.vsolcn.com/blog/vsol-gpon-olt-basics-and-configuration.html
 https://www.tp-link.com/us/support/faq/3326/
