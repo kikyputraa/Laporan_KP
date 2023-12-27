@@ -239,4 +239,27 @@ SPBU Ketiga di Kurau, Bangka Tengah. Laporan yang diterima adalah PC Server kera
 
 (Pengecekan kali ini didampingi oleh SBM dari Pertamina)
 
-## - December 21, 2023
+## - December 27, 2023
+Setelah Libur dan Cuti Bersama, Kembali ke kantor untuk Apel Mingguan. Setelah itu, saya ikut dalam tim SPBU lagi untuk Pengecekan Rutin.
+
+Laporan yang diterima adalah Modem yang tidak bisa Koneksi ke Internet, dan ATG tidak dapat membaca Isi Tanki.
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/e4a43b7c-be94-4fa6-8187-7fd89aaa4b2f">
+
+(Pengecekan Pompa dan Tanki menggunakan Insys dari Telkom)
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/137440b0-1325-441a-a4d0-4b694260cbe7">
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/6f7185b7-7549-4849-b3ce-d656c84e4ca0">
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/c1a14345-c1de-4488-86ac-f66c90ebd6d2">
+
+(Mengganti Sensor didalam Tanki dan Perbaikan ATG)
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/197ed6db-08fe-48be-84d3-3ab004086813">
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/922565e6-5bad-485a-8bfc-8b47905d081b">
+
+(Pemasangan Kembali Sensor dan ATG)
+
+Masalah pada Modem kebanyakan dihandle secara remote oleh tim CCAN di kantor, jadi tidak ada Dokumentasi. Kami hanya Crimping Ulang Kabel LAN.
