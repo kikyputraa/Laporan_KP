@@ -208,3 +208,23 @@ Saya mengikuti Tim CCAN (CCAN merupakan unit khusus yang dibentuk di setiap Kant
 
 (Pemasangan Ulang)
 
+## - December 21, 2023
+Hari ini kegiatan saya adalah Assurance Problem SPBU di berbagai Wilayah.
+
+SPBU Pertama di Sadai, Bangka Selatan. Problem yang ditemukan adalah titik grounding tanki yang kurang bagus.
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/eac694f4-b328-4f9c-9687-f8eb0829dcfa">
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/dc610b7f-88d8-43c6-9ee3-acb81aaf96f9">
+
+(Pengecekan Grounding dan Tanki)
+
+<img width="400" height="400" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/47ac8013-64c9-4d8b-884a-c97971e14183">
+
+(Percobaan Grounding Mandiri)
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/1379c454-2019-4eb1-8b2f-7e7d4b7e6c98">
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/9982ac9d-1699-4da1-bbad-a28b3817c93d">
+
+(Perbaikan Grounding Tanki dan Instalasi Selang Proteksi)
