@@ -238,3 +238,5 @@ SPBU Ketiga di Kurau, Bangka Tengah. Laporan yang diterima adalah PC Server kera
 <img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/5b82a7ae-52c3-49f5-969c-e9f2f87f9900">
 
 (Pengecekan kali ini didampingi oleh SBM dari Pertamina)
+
+## - December 21, 2023
