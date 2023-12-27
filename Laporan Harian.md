@@ -277,4 +277,5 @@ Baik GPON ataupun GEPON, menggunakan serat optik sebagai medium transmisi. Satu 
 <img width="448" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/91b186aa-38ac-4790-ae4c-ce68b41f7b73">
 
 Source : https://darysqin.blogspot.com/2014/10/gpon.html
+
          https://ahambali.staff.telkomuniversity.ac.id/wp-content/uploads/sites/85/2014/05/Jaringan-Akses-GPONGEPON.pdf
