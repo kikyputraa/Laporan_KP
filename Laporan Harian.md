@@ -284,7 +284,7 @@ https://www.vsolcn.com/blog/vsol-gpon-olt-basics-and-configuration.html
 
 https://www.tp-link.com/us/support/faq/3326/
 
-## - December 27, 2023
+## - December 28, 2023
 
 Hari ini saya di Kantor untuk Membantu Monitoring dan Perpindahan Access Point Ruangan Kantor. Pertama, saya splicing sendiri kabel drop core dari dinding ke Pig-Tail dan menyambungkan keduanya. Setelah itu, memindahkan Router POE dan Access Point mendekati ONT Ruangan.
 
