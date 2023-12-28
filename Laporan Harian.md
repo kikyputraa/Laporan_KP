@@ -283,3 +283,11 @@ Konfigurasi Dasar GPON OLT :
 https://www.vsolcn.com/blog/vsol-gpon-olt-basics-and-configuration.html
 
 https://www.tp-link.com/us/support/faq/3326/
+
+## - December 27, 2023
+
+Hari ini saya di Kantor untuk Membantu Monitoring dan Perpindahan Access Point Ruangan Kantor. Pertama, saya splicing sendiri kabel drop core dari dinding ke Pig-Tail dan menyambungkan keduanya. Setelah itu, memindahkan Router POE dan Access Point mendekati ONT Ruangan.
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/da561c71-ba12-4d4b-80ad-6fc6aa9715af">
+
+(Device untuk Wifi dan LAN di Ruangan saya)
