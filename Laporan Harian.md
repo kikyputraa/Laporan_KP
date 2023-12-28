@@ -291,3 +291,9 @@ Hari ini saya di Kantor untuk Membantu Monitoring dan Perpindahan Access Point R
 <img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/da561c71-ba12-4d4b-80ad-6fc6aa9715af">
 
 (Device untuk Wifi dan LAN di Ruangan saya)
+
+Sore harinya, saya diminta untuk ikut dalam Monitoring Masalah pada GPON Telkom.
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/4251ed68-1043-4160-bf4c-360c4c07e439">
+
+Tidak ada Screenshot untuk Command karena terdapat Data Pelanggan.
