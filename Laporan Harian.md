@@ -297,3 +297,29 @@ Sore harinya, saya diminta untuk ikut dalam Monitoring Masalah pada GPON Telkom.
 <img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/4251ed68-1043-4160-bf4c-360c4c07e439">
 
 Tidak ada Screenshot untuk Command karena terdapat Data Pelanggan.
+
+## - December 29, 2023
+
+Hari ini saya ditugaskan untuk ikut serta dalam Sosialisasi Digitalisasi SPBU untuk Kota Pangkalpinang bersama Tim Assurance SPBU.
+
+Kegiatan saya adalah Pengambilan Video Sosialisasi dan Editing Video
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/c8c26ccc-8057-4e79-89de-f108adcd9511">
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/78cbc6a5-973e-4848-beb8-de3cdd514673">
+
+(Video Sosialisasi Digitalisasi SPBU)
+
+Saya juga diajarkan cara mensetting Access Point baru, untuk penggunaan Docking EDC/TAB dari SPBU.
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/64338b2b-6142-47b5-890a-eeba685f59d3">
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/4e8d4b6d-53df-4419-a842-5da78b12ff4b">
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/7bedd891-bdb9-4827-afc7-1fac40b58e10">
+
+(Setting 1 titik Access Point baru karena yang lama ada Kendala)
+
+Setelah itu Pengecekan Hasil Editing Video
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/bdad8424-2c8f-47f2-b8d0-066c96553047">
