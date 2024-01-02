@@ -323,3 +323,23 @@ Saya juga diajarkan cara mensetting Access Point baru, untuk penggunaan Docking 
 Setelah itu Pengecekan Hasil Editing Video
 
 <img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/bdad8424-2c8f-47f2-b8d0-066c96553047">
+
+## - Januari 2, 2024
+
+Hari ini saya kembali ditugaskan dalam Sosialisasi Digitalisasi SPBU di Kabupaten Bangka.
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/6df3bf51-c73e-4310-a714-d423941bd6a7">
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/6a13f65f-2553-466f-9c91-5648650a5ee6">
+
+(Sosialisasi Digitalisasi SPBU dan Editing Video untuk Hari ini)
+
+Setelah itu saya juga ikuta dalam Pengambilan Data serta Pengecekan Rutin SPBU.
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/2c85c368-6649-4e91-bf8a-a672f614e8e2">
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/9da0a467-a106-4978-9580-51433dc94aef">
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/d269caad-7a3c-47a2-8b57-1507976dcce5">
+
+(Pengecekan Rutin SPBU dan Penukaran EDC Lama ke TAB Baru)
