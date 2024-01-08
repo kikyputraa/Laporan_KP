@@ -336,11 +336,11 @@ Hari ini saya kembali ditugaskan dalam Sosialisasi Digitalisasi SPBU di Kabupate
 
 Setelah itu saya juga ikuta dalam Pengambilan Data serta Pengecekan Rutin SPBU.
 
-<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/2c85c368-6649-4e91-bf8a-a672f614e8e2">
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/2c85c368-6649-4e91-bf8a-a672f614e8e2">
 
-<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/9da0a467-a106-4978-9580-51433dc94aef">
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/9da0a467-a106-4978-9580-51433dc94aef">
 
-<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/d269caad-7a3c-47a2-8b57-1507976dcce5">
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/d269caad-7a3c-47a2-8b57-1507976dcce5">
 
 (Pengecekan Rutin SPBU dan Penukaran EDC Lama ke TAB Baru)
 
@@ -376,3 +376,38 @@ Tim SPBU Hari ini ditugaskan ke Desa Perlang untuk melakukan Assurance.
 
 (Menghubungkan EDC ke Server dan Test Print)
 
+## - Januari 4, 2024
+
+Hari ini Tim SPBU akan Sosialisasi Digitalisasi pada salah satu SPBU di Kota Koba, Bangka Tengah.
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/0a04def5-9186-4047-b76a-d7af2520bfa6">
+
+(Pengambilan Video untuk Sosialisasi)
+
+Setelah itu Melakukan Assurance di SPBU lain di kota yang sama.
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/9dfd3006-1458-4219-b718-aacdd3dd29e2">
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/8fc3c501-97be-4244-bc08-877203dcbc07">
+
+<img width="200" height="200" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/f284a312-f772-400f-b8f8-089db9f2d9f8">
+
+(Penggantian Monitor Server dan Converter ATG)
+
+## - Januari 5, 2024
+
+Hari ini saya ditugaskan di Kantor untuk Melakukan Mapping Titik-titik Alat/Atribut Jaringan Telkom Akses di seluruh Bangka Belitung.
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/4e750104-5a52-4ac5-9d2f-ecc33e8e331c">
+
+(Contoh Mapping menggunakan My Maps)
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/cb9267bf-dc42-48df-8595-899db0bf93c7">
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/4d7c4c59-bf3b-489b-8a19-bb2c0cd561f4">
+
+(Proses penyortiran Data)
+
+## - Januari 8, 2024
+
+Hari ini 
