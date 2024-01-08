@@ -343,3 +343,20 @@ Setelah itu saya juga ikuta dalam Pengambilan Data serta Pengecekan Rutin SPBU.
 <img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/d269caad-7a3c-47a2-8b57-1507976dcce5">
 
 (Pengecekan Rutin SPBU dan Penukaran EDC Lama ke TAB Baru)
+
+## - Januari 3, 2024
+
+Tim SPBU Hari ini ditugaskan ke Desa Perlang untuk melakukan Assurance.
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/0308934a-8fc9-437e-8ee5-b84da84331ac">
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/febb9ad5-1050-47ff-825d-92df971a5caa">
+
+(Perbaikan FDM Server)
+
+<img width="281" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/210a7e9d-3c53-43aa-8128-416d01c99e0a">
+
+<img width="305" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/5609756b-4b9f-48e9-99a7-c59d5fd1ff7d">
+
+(Penggantian Monitor yang rusak)
+
