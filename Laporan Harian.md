@@ -354,9 +354,25 @@ Tim SPBU Hari ini ditugaskan ke Desa Perlang untuk melakukan Assurance.
 
 (Perbaikan FDM Server)
 
-<img width="281" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/210a7e9d-3c53-43aa-8128-416d01c99e0a">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/210a7e9d-3c53-43aa-8128-416d01c99e0a">
 
-<img width="305" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/5609756b-4b9f-48e9-99a7-c59d5fd1ff7d">
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/5609756b-4b9f-48e9-99a7-c59d5fd1ff7d">
 
 (Penggantian Monitor yang rusak)
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/304bba01-3054-445a-9e96-29aa808e35c3">
+
+(Aktivasi Tab)
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/9d4d5c2a-53bb-4850-becb-1683cd2f3d69">
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/ec23ac3f-f730-4b6f-9db2-641686094ef7">
+
+(Perbaikan dan Aktivasi kembali EDC)
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/73a9bd7c-fcc9-49d1-93e7-871d26f38cac">
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/a6bf6fc6-eec4-42e7-bec6-40586e9825a6">
+
+(Menghubungkan EDC ke Server dan Test Print)
 
