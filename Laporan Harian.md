@@ -410,4 +410,15 @@ Hari ini saya ditugaskan di Kantor untuk Melakukan Mapping Titik-titik Alat/Atri
 
 ## - Januari 8, 2024
 
-Hari ini 
+Hari ini kami Tim SPBU menuju Kota Mentok untuk Sosialisasi Digitalisasi SPBU,
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/3bb97678-b14f-478c-b139-2a7a45df47ad">
+
+(Pengambilan Video Sosialisasi untuk Kabupaten Bangka Barat)
+
+Setelah itu saya melanjutkan Proyek Mapping Node Jaringan TA.
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/819403be-a78c-43d7-9874-ab876aafd192">
+
+(Pencocokan dan Instalasi ke Google Earth)
+
