@@ -422,3 +422,16 @@ Setelah itu saya melanjutkan Proyek Mapping Node Jaringan TA.
 
 (Pencocokan dan Instalasi ke Google Earth)
 
+## - Januari 9, 2024
+
+Hari ini saya melanjutkan Project Mapping Node untuk Infrastruktur Jaringan dan Memulai pembuatan Laporan Kerja Praktik. Saya juga diperlihatkan Struktur Organisasi dan Perusahaan, serta PPT tentang Divisi BGES.
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/c3507c67-5a27-47bc-9e61-8d351be4cfbf">
+
+(PPT Divisi dan Job Desk BGES)
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/fa718ea1-79e2-410e-9edf-8210a38d139e">
+
+<img width="300" height="300" alt="image" src="https://github.com/kikyputraa/Laporan_KP/assets/150577938/29d39ecb-6fe9-474c-a052-cf93d809ab01">
+
+(Publikasi Mapping Node ke Google Earth)
